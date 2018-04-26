@@ -1,14 +1,13 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05K11
+## Projeto: Medição de Temperatura, Umidade e Concentração de CO2 para uma Estufa
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Bruno Candiani Squassoni	 TIA 31312020
+* Bruno Gaete Gonzalez 		   TIA 31604390
+* Guilherme  Martins 		     TIA 31514340
+
 _______________________________________
 Obs:
 
